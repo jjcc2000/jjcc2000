@@ -8,7 +8,7 @@ Full Stack Dev.
 
 * 🌍  I'm based in Costa Rica
 * ✉️  You can contact me at [imjohanjjcc@gmail.com](mailto:imjohanjjcc@gmail.com)
-* 🧠  I'm learning Moongose
+* 🧠  I'm learning Docker.
 * 🤝  I'm open to collaborating on projects.
 * ⚡  Code Pro who Likes a lot of "GO".
 
