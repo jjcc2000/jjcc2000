@@ -8,9 +8,10 @@ Full Stack Dev.
 
 * 🌍  I'm based in Costa Rica
 * ✉️  You can contact me at [imjohanjjcc@gmail.com](mailto:imjohanjjcc@gmail.com)
+
 * 🧠  I'm learning Docker.
 * 🤝  I'm open to collaborating on projects.
-* ⚡  Code Pro who Likes a lot of "GO".
+* ⚡  Code pro with a passion for Go, Node.js, Solidity, SQL, MongoDB, React, and Express.
 
 ### Skills
 
