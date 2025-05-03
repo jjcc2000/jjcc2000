@@ -48,9 +48,9 @@ Full Stack Dev.
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
   </a>
-<a href="https://docs.soliditylang.org/" target="_blank" rel="noreferrer">
-  <img src="https://cryptologos.cc/logos/solidity-solidity-logo-white.svg?v=024" width="36" height="36" alt="Solidity" />
-</a>
+  <a href="https://docs.soliditylang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solidity-colored.svg" width="36" height="36" alt="Solidity" />
+  </a>
 
 </p>
 
