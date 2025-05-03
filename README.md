@@ -51,6 +51,9 @@ Full Stack Dev.
   <a href="https://docs.soliditylang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solidity-colored.svg" width="36" height="36" alt="Solidity" />
   </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon-white.svg" width="36" height="36" alt="MySQL" />
+</a>
 
 </p>
 
