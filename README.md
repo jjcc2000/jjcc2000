@@ -18,7 +18,7 @@ I'm a full-stack & Web3 developer building with:
 
 🛠️ Git & GitHub
 
-## 🔭 Projects I'm working on:
+## 🔭 Some Projects I've work on
 - A DApp for managing NFT access
 - A Go-based REST API deployed with Docker
 - A Next.js dashboard styled with Tailwind
