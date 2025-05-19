@@ -1,17 +1,19 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Johan Chacon Chacon
 ===========================================================================================================================================
 
-Full Stack Developer.
---------------------
 
-Full Stack Dev.
+I'm a full-stack & Web3 developer building with:
 
-* 🌍  I'm based in Costa Rica
-* ✉️  You can contact me at [imjohanjjcc@gmail.com](mailto:imjohanjjcc@gmail.com)
+- ⚛️ React, Next.js, Tailwind
+- ⚙️ Node.js, Go, MongoDB
+- ⛓️ Solidity, Ethereum, Ethers.js
+- 🐳 Docker, Kubernetes
+- 🧪 TypeScript & Clean Code
 
-* 🧠  I'm learning Docker.
-* 🤝  I'm open to collaborating on projects.
-* ⚡  Code pro with a passion for Go, Node.js, Solidity, SQL, MongoDB, React, and Express.
+## 🔭 Projects I'm working on:
+- A DApp for managing NFT access
+- A Go-based REST API deployed with Docker
+- A Next.js dashboard styled with Tailwind
 
 ### Skills
 
