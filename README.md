@@ -5,11 +5,17 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm a full-stack & Web3 developer building with:
 
 ⚛️ React, Next.js, Tailwind CSS
+
 ⚙️ Node.js (Express, REST, JWT), MongoDB, MySQL
+
 🐹 Go (Gin, Gorilla Mux)
+
 ⛓️ Solidity, Ethereum, Ethers.js, Hardhat, OpenZeppelin
+
 🐳 Docker, Kubernetes
+
 🧪 TypeScript, Clean Code, ESLint, Prettier, Jest
+
 🛠️ Git & GitHub
 
 ## 🔭 Projects I'm working on:
