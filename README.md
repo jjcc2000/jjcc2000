@@ -70,13 +70,3 @@ I'm a full-stack & Web3 developer building with:
 
 <p align="left"> <a href="https://www.github.com/jjcc2000" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/johan-chacon-chacon-4a350b217/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/jjcc2000"><img src="https://github-readme-stats-eight-chi-99.vercel.app/api?username=jjcc2000&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=84cc16&bg_color=0f172a&hide_border=true&show_icons=true" alt="jjcc2000's GitHub stats" /></a>
-
-<a href="http://www.github.com/jjcc2000"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jjcc2000&stroke=ffffff&background=0f172a&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-
-<a href="https://github.com/jjcc2000" align="left"><img src="https://github-readme-stats-eight-chi-99.vercel.app/api/top-langs/?username=jjcc2000&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=84cc16&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
