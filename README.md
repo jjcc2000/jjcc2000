@@ -55,7 +55,12 @@ I'm a full-stack & Web3 developer building with:
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="Next.js" />
   </a>
-
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
+  </a>
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" width="36" height="36" alt="Kubernetes" />
+  </a>
 </p>
 
 
