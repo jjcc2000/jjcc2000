@@ -10,7 +10,7 @@ I'm a full-stack & Web3 developer building with:
 
 🐹 Go (Gin, Gorilla Mux)
 
-⛓️ Solidity, Ethereum, Ethers.js, Hardhat, OpenZeppelin
+⛓️ Solidity, Ethereum, Ethers.js, Hardhat, OpenZeppelin, Slither
 
 🐳 Docker, Kubernetes
 
