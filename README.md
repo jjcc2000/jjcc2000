@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ===========================================================================================================================================
 
 
-I'm a full-stack & Web3 developer building with:
+I'm a full-stack & Web3 Engineer building with:
 
 ⚛️ React, Next.js, Tailwind CSS
 
