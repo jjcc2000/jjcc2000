@@ -1,7 +1,5 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)my name is Johan Chacon Chacon
 ===========================================================================================================================================
-
-
 I'm a full-stack & Web3 Engineer building with:
 
 ⚛️ React, Next.js (Next Auth), Tailwind CSS
@@ -15,8 +13,6 @@ I'm a full-stack & Web3 Engineer building with:
 🐳 Docker, Kubernetes
 
 🧪 TypeScript, Clean Code, ESLint, Prettier, Jest
-
-🛠️ Git & GitHub
 
 ## 🔭 Some Projects I've work on
 - A DApp for managing NFT access
