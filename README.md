@@ -18,6 +18,7 @@ I'm a Full-stack & Web3 Engineer building with:
 - A DApp for managing NFT access
 - A Go-based REST API deployed with Docker
 - A Next.js dashboard styled with Tailwind
+- Pipeline - time event processing to cross-chain position analytics.
 
 ### Skills
 
