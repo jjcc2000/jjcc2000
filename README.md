@@ -10,7 +10,7 @@ I'm a Full-stack & Web3 Engineer building with:
 
 ⛓️ Solidity, Ethereum, Ethers.js, Hardhat, OpenZeppelin, Slither
 
-🐳 Docker, Kubernetes
+🐳 Docker, Kubernetes,AWS
 
 🧪 TypeScript, Clean Code, ESLint, Prettier, Jest
 
