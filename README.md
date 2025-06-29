@@ -20,8 +20,6 @@ I'm a Full-stack & Web3 Engineer building with:
 - A Next.js dashboard styled with Tailwind
 - Pipeline - real time event processing to cross-chain position analytics.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjcc2000&langs_count=8)](https://github.com/jjcc2000/github-readme-stats)
-
 ### Skills
 
 <p align="left">
