@@ -21,8 +21,8 @@ I'm a Full-stack & Web3 Engineer building with:
 - Pipeline - real time event processing to cross-chain position analytics.
 
 
-###Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?jjcc2000=voyager19878"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=dark)
+
 
 ### Skills
 
