@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)my name is Johan
+Hi 👋 my name is Johan
 I'm a Full-stack & Web3 Engineer building with:
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2hyeGF4eGMzb2hnbXdtNHQ3MGxldGZiYjlwOHhxOHB0ZjljamJiZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ItIWDCyzWUBOvQYWdC/giphy.gif" alt="funny gif" width="140" align="right" style="margin-left: 10px; float: right;" />
