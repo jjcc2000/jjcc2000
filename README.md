@@ -1,5 +1,5 @@
 Hi  
-<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="wave" width="30" style="vertical-align: middle;" /> my name is Johan  
+<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="wave" /> my name is Johan  
 ===========================================================================================================================================
 
 I'm a Full-stack & Web3 Engineer building with:
