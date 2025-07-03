@@ -2,6 +2,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ===========================================================================================================================================
 I'm a Full-stack & Web3 Engineer building with:
 
+<img src ="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2t3dWJuazdnMjNlMWNmNTFwc3dqbzd1czNzZzhueHd3d3BiMzB4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif">
+
 ⚛️ React, Next.js (Next Auth), Tailwind CSS
 
 ⚙️ Node.js (Express, REST, JWT), MongoDB, MySQL
