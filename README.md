@@ -5,7 +5,7 @@ I'm a Full-stack & Web3 Engineer building with:
 
 
 ⚛️ React, Next.js (Next Auth), Tailwind CSS  
-⚙️ Node.js (Express, REST, JWT), MongoDB, MySQL  
+⚙️ Node.js (Express, REST), MongoDB, MySQL  
 🐹 Go (Gin, Gorilla Mux)  
 ⛓️ Solidity, Ethereum, Ethers.js Web3.js, Hardhat, OpenZeppelin, Slither  
 🐳 Docker, Kubernetes, AWS  
