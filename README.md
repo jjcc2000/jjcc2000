@@ -9,7 +9,7 @@ I'm a Full-stack & Web3 Engineer building with:
 🐹 Go (Gin, Gorilla Mux)  
 ⛓️ Solidity, Ethereum, Ethers.js Web3.js, Hardhat, OpenZeppelin, Slither  
 🐳 Docker, Kubernetes, AWS  
-🧪 TypeScript, Clean Code, ESLint, Prettier, Jest  
+🧪 Js on TypeScript
 
 ### Skills
 
