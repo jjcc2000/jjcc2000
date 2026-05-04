@@ -8,9 +8,7 @@ I'm a Full-stack & Web3 Engineer building with:
 <p>🐳 Docker, Kubernetes, AWS</p>
 <p>🐹 Go (Gin, Gorilla Mux)</p>  
 </div>
-<h3>
->###  Skills
-</h3
+<h3>Skills</h3
 
 <div>
 <p align="left">
@@ -50,7 +48,7 @@ I'm a Full-stack & Web3 Engineer building with:
 </p>
 
 
-<h3>### Socials</h3>
+<h3>Socials</h3>
 <p>   
 <a href="https://www.linkedin.com/in/johan-chac%C3%B3n" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 </p>
