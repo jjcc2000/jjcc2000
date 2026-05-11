@@ -16,4 +16,4 @@ I'm a Full-stack & Web3 Engineer building with:</p>
 
 ### Socials
 
-[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />](https://www.linkedin.com/in/johan-chac%C3%B3n)
+[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />](https://www.linkedin.com/in/johan-chacon)
