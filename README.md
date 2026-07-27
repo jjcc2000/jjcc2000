@@ -3,6 +3,7 @@
 <p>Hi 👋 my name is Johan<br/>
 I'm a Backend & Web3 Engineer building with:</p>
 <p>⚙️ Node.js, TypeScript, Go (Gin)</p>
+<p>☕ Java,SpringBoot</p>
 <p>🗄️ PostgreSQL, MongoDB, Redis</p>
 <p>⛓️ Solidity, Ethers.js, Hardhat, OpenZeppelin</p>
 <p>🐳 Docker, Kubernetes, AWS, Terraform</p>
